@@ -1,10 +1,10 @@
-
 # GHWF
 
 Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
+Marie
 Anna Huang 
 
 ## Setup
